@@ -1,4 +1,4 @@
-import { List } from 'immutable';
+import { fromJSOrdered } from './utils/immutable';
 
 // sometimes it's impossible to use html tags to style coin name, hence usage of _UPPERCASE modifier
 export const APP_NAME = 'stemgeeks';
@@ -12,7 +12,7 @@ export const APP_ICON = 'stemgeeks';
 export const APP_URL = 'https://stemgeeks.net';
 export const APP_DOMAIN = 'stemgeeks.net'
 export const SCOT_TAG = 'stem';
-export const TAG_LIST = List(['science', 'technology', 'engineering', 'math']);
+export const TAG_LIST = fromJSOrdered(['science', 'technology', 'engineering', 'math']);
 export const LIQUID_TOKEN = 'stem';
 // sometimes it's impossible to use html tags to style coin name, hence usage of _UPPERCASE modifier
 export const LIQUID_TOKEN_UPPERCASE = 'STEM';
