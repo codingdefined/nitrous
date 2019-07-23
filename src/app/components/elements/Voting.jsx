@@ -241,7 +241,7 @@ class Voting extends React.Component {
             myVote,
         } = this.state;
 
-        const scotDenom = Math.pow(10, scotPrecision);
+	const scotDenom = Math.pow(10, scotPrecision);
         // Incorporate regeneration time.
         const currentVp = votingData
             ? Math.min(
