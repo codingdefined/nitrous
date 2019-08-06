@@ -60,15 +60,6 @@ export default function ServerHTML({
                 <link rel="manifest" href="/static/manifest.json" />
                 <link rel="icon" type="image/x-icon" href="/favicon.ico?v=2" />
                 <link
-<<<<<<< HEAD
-<<<<<<< HEAD
-                    rel="icon"
-                    type="image/png"
-                    sizes="16x16"
-                    href="/images/favicons/favicon-16x16.png"
-=======
-=======
->>>>>>> refs/remotes/origin/master
                     rel="apple-touch-icon"
                     sizes="57x57"
                     href="/images/favicons/apple-icon-57x57.png"
@@ -118,10 +109,6 @@ export default function ServerHTML({
                     type="image/png"
                     sizes="192x192"
                     href="/images/favicons/android-icon-192x192.png"
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
->>>>>>> refs/remotes/origin/master
                 />
                 <link
                     rel="icon"
@@ -134,24 +121,13 @@ export default function ServerHTML({
                     type="image/png"
                     sizes="96x96"
                     href="/images/favicons/favicon-96x96.png"
-<<<<<<< HEAD
-<<<<<<< HEAD
                 />	    
-=======
-                />
-=======
-                />	    
->>>>>>> refs/remotes/origin/master
                 <link
                     rel="icon"
                     type="image/png"
                     sizes="16x16"
                     href="/images/favicons/favicon-16x16.png"
                 />
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
->>>>>>> refs/remotes/origin/master
                 <meta name="msapplication-TileColor" content="#ffffff" />
                 <meta
                     name="msapplication-TileImage"
