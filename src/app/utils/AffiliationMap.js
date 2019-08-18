@@ -1,5 +1,4 @@
 const map = {
-
     // STEMGeeks
     themarkymark: 'stemgeeks',
     stemgeeks: 'stemgeeks',
@@ -7,7 +6,9 @@ const map = {
     stemmarket: 'stemgeeks',
     nostem4u: 'stemgeeks',
     stembounties: 'stemgeeks',
-    stembot: 'stemgeeks'
+    stembot: 'stemgeeks',
+    lemouth: 'steemstem',
+    mobbs: 'steemstem',
 };
 
 export default map;

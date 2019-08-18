@@ -60,11 +60,9 @@ const SidePanel = ({
                 }`,
             },
             {
-                value: 'freedomx',
-                label: 'FreedomEX',
-                link: `https://freedomex.io/trading/${
-                    LIQUID_TOKEN_UPPERCASE
-                }freex`,
+                value: 'stemgeeksdiscord',
+                label: 'STEMGeeks Discord',
+                link: 'https://discordapp.com/invite/hc4xjwA',
             },
         ],
         exchanges: [
